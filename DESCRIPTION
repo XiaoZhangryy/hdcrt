@@ -1,0 +1,25 @@
+Package: hdcrt
+Type: Package
+Title: Hypothesis testing in high-dimensional censored-transformation models
+Version: 0.1.0
+Authors@R: c(person(given = "Xiao", family = "Zhang", role = c("aut","cre"), email = "zhangxiao1994@cuhk.edu.cn"),
+             person(given = "Xiangyong", family = "Tan", role = "aut"),
+             person(given = "Runze", family = "Li", role = "aut"),
+             person(given = "Xu", family = "Liu", role = "aut"))
+Author: Xiao Zhang [aut,cre], 
+        Xiangyong Tan [aut],
+        Runze Li [aut],
+        Xu Liu [aut]
+Maintainer: Xiao Zhang <zhangxiao1994@cuhk.edu.cn>
+Description: We provide an efficient censored rank-based test statistic for hypothesis testing in high-dimensional censored-transformation models. Both global test and partial test are supported.
+License: GPL (>= 2)
+Imports: Matrix
+Repository: github
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression:xz
+URL: https://github.com/XiaoZhangryy/hscrt
+BugReports: https://github.com/XiaoZhangryy/hscrt/issues
+RoxygenNote: 7.3.1
+NeedsCompilation: yes
+
