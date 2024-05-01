@@ -12,7 +12,7 @@ Hypothesis testing in high-dimensional censored-transformation models
 
 # Usage
 
-   - [x] [HierFabs-manual](https://github.com/XiaoZhangryy/hdcrt/blob/master/inst/hdcrt-manual.pdf) ------------ Details of the usage of the package.
+   - [x] [hdcrt-manual](https://github.com/XiaoZhangryy/hdcrt/blob/master/inst/hdcrt-manual.pdf) ------------ Details of the usage of the package.
 
 # References
 
